@@ -21,3 +21,13 @@ The following example shows an enumeration:
 1. First item
 2. Second item
 3. Third item
+
+## Tables
+
+The following example shows a table:
+
+| Column 1        | Column 2        |
+|:----------------|:----------------|
+| Row 1, Column 1 | Row 1, Column 2 |
+| Row 2, Column 1 | Row 2, Column 2 |
+| Row 3, Column 1 | Row 3, Column 2 |
