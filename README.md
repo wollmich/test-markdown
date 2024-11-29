@@ -37,3 +37,8 @@ The following example shows a table:
 The following examples shows an equation:
 
 $$y = b_0 + b_1x + b_2x^2 + b_3x^3$$
+
+## Links
+
+- [GitHub Docs - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
